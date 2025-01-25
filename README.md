@@ -7,6 +7,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=coderwyd&show_icons=true&theme=tokyonight)
-
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=coderwyd&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=coderwyd&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
